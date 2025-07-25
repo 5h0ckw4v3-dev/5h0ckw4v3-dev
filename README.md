@@ -7,6 +7,7 @@
 <a href="https://cs.lpi.org/caf/Xamman/certification/verify/LPI000224902/ru78s9x3d2" target="_blank"><img alt="LPIC-1" src="https://images.credly.com/size/340x340/images/28669969-37c3-4fd1-9ef6-f67309e75bb7/LPI_LPIC1.png" width="100"/></a>
 <a href="https://www.credly.com/badges/3cfbccf8-c514-4655-ae58-2ad09d657672/" target="_blank"><img alt="VMWare" src="https://images.credly.com/size/340x340/images/11898da1-58e3-4c4c-957a-7a6d46dcc631/image.png" width="94"/></a>
 <a href="https://www.credly.com/badges/1d188caa-7573-4ae2-94f0-9777a1d2c3d3/" target="_blank"><img alt="Azure" src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="94"/></a>
+<a href="[https://www.credly.com/badges/1d188caa-7573-4ae2-94f0-9777a1d2c3d3](https://catalog-education.oracle.com/ords/certview/sharebadge?id=B1733ED89998AE9792ACF5E4BE07B0879FAA15E29714EA4404347C1D69432ED0)/" target="_blank"><img alt="Oracle" src="/assets/img/oci.png" width="94"/></a>
 </p>
 <h3>Tecnologias que uso</h3>
 <p>
@@ -29,7 +30,7 @@
 <br>
 <h3>Mis últimos post</h3>
   <ul>
-    <li><a href="https://antoniojmoya.es/posts/comandos/"><b> Comandos Linux </b></a><br/><i> Recopilación de comandos Linux para diferentes usos. </i>
+    <li><a href="hhttps://antoniojmoya.es/posts/nextcloud/"><b> Nextcloud en Docker </b></a><br/><i> Instalación del aplicativo de Nextcloud usando Docker. </i>
     </li>
   </ul>
 <br>
