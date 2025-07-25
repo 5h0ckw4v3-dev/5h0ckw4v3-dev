@@ -7,7 +7,7 @@
 <a href="https://cs.lpi.org/caf/Xamman/certification/verify/LPI000224902/ru78s9x3d2" target="_blank"><img alt="LPIC-1" src="https://images.credly.com/size/340x340/images/28669969-37c3-4fd1-9ef6-f67309e75bb7/LPI_LPIC1.png" width="100"/></a>
 <a href="https://www.credly.com/badges/3cfbccf8-c514-4655-ae58-2ad09d657672/" target="_blank"><img alt="VMWare" src="https://images.credly.com/size/340x340/images/11898da1-58e3-4c4c-957a-7a6d46dcc631/image.png" width="94"/></a>
 <a href="https://www.credly.com/badges/1d188caa-7573-4ae2-94f0-9777a1d2c3d3/" target="_blank"><img alt="Azure" src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="94"/></a>
-<a href="[https://www.credly.com/badges/1d188caa-7573-4ae2-94f0-9777a1d2c3d3](https://catalog-education.oracle.com/ords/certview/sharebadge?id=B1733ED89998AE9792ACF5E4BE07B0879FAA15E29714EA4404347C1D69432ED0)/" target="_blank"><img alt="Oracle" src="/assets/img/oci.png" width="94"/></a>
+<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=B1733ED89998AE9792ACF5E4BE07B0879FAA15E29714EA4404347C1D69432ED0/" target="_blank"><img alt="Oracle" src="/assets/img/oci.png" width="94"/></a>
 </p>
 <h3>Tecnologias que uso</h3>
 <p>
@@ -20,9 +20,9 @@
 <!--  <img alt="SQL Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
   <img alt="Apache" src="https://img.shields.io/badge/Apache-D61900?style=for-the-badge&logo=apache&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" /> -->
+  <img alt="Cisco" src="https://img.shields.io/badge/Cisco-4DC1E8?style=for-the-badge&logo=cisco&logoColor=white" /> -->
+  <img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" />
   <img alt="Ansible" src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white" />
-  <img alt="Cisco" src="https://img.shields.io/badge/Cisco-4DC1E8?style=for-the-badge&logo=cisco&logoColor=white" />
   <img alt="VMWAre" src="https://img.shields.io/badge/VMware-607078?logo=vmware&logoColor=white&style=for-the-badge" />
   <img alt="VirtualBox" src="https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white&style=for-the-badge" />
   <img alt="Raspberry" src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" />
